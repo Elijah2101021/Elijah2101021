@@ -17,9 +17,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on A working covid-19 tracker
+- 🔭 I’m currently working on A Discord Bot Call Veebo
 
-- 🌱 I’m currently learning Astronomy 
+- 🌱 I’m currently learning Roblox Lua
 
 - 👯 I’m looking to collaborate on Projects, Development Teams 
 
