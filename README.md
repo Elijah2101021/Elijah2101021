@@ -17,9 +17,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on A Discord Bot Call Veebo and Keqing which I contributed
+- 🔭 I’m currently working on A Discord Bot Called Mousey
 
-- 🌱 I’m currently learning Roblox Lua
+- 🌱 I’m currently learning Three.js
 
 - 👯 I’m looking to collaborate on Projects, Development Teams 
 
